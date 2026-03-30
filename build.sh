@@ -1,0 +1,1 @@
+go build -o WatchTowerBackend ./cmd/agent/main.go && go build -o WatchTowerFrontend ./cmd/display/main.go
